@@ -13,6 +13,9 @@ import Stats from "./Stats";
 import Testimonials from "./Testimonials";
 
 export {
+    Billing,
+    Business,
+    Button,
     CardDeal,
     Clients,
     CTA,
